@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 주제 : BFS의 구현을 위한 큐
 // 내용 : 선입선출 - 먼저 들어온 데이터가 제일 먼저 나가는 구조

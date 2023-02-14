@@ -1,4 +1,4 @@
-package 알고리즘1.Greedy;
+package AlgorithmPractice.Greedy;
 
 // 문제 : 곱하기 혹은 더하기
 // 문제 해결 방법 : 최대한 많이 * 연산 수행

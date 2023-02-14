@@ -1,4 +1,4 @@
-package 알고리즘1.Sort;
+package AlgorithmPractice.Sort;
 
 // 주제 : 퀵 정렬
 // 내용 : 기준을 설정하고 그 기준보다 큰 데이터와 작은 데이터의 위치를 바꾸며 정렬하는 방법

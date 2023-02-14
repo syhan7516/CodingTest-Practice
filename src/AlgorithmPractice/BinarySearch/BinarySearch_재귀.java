@@ -1,4 +1,4 @@
-package 알고리즘1.BinarySearch;
+package AlgorithmPractice.BinarySearch;
 
 // 주제 : BinarySearch
 // 내용 : 정렬되어 있는 데이터들에 탐색 범위를 절반씩 좁혀가며 데이터를 탐색하는 방법

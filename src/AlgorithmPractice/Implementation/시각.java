@@ -1,4 +1,4 @@
-package 알고리즘1.Implementation;
+package AlgorithmPractice.Implementation;
 
 // 문제 : 시각
 // 문제 해결 방법 : 가능한 모든 시각의 경우를 하나씩 모두 세어 풀기

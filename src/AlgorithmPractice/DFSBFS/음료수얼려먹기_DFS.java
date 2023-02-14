@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 문제 : 음료수 얼려 먹기
 // 문제 해결 방법 : DFS, BFS로 연결된 상하좌우 확인 후 연결 요소 개수 파악

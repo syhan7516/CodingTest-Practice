@@ -1,4 +1,4 @@
-package 알고리즘1.Sort;
+package AlgorithmPractice.Sort;
 
 // 주제 : 계수 정렬
 // 내용 : 특정한 조건(데이터의 크기 범위가 제한된 정수 형태)이 부합할 때만 사용할 수 있는 매우 빠르게 동작하는 정렬 알고리즘

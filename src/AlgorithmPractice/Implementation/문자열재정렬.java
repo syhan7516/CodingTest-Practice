@@ -1,4 +1,4 @@
-package 알고리즘1.Implementation;
+package AlgorithmPractice.Implementation;
 
 // 문제 : 문자열 재정렬
 // 문제 해결 방법 : 요구사항대로 구현

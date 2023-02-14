@@ -1,4 +1,4 @@
-package 알고리즘1.Implementation;
+package AlgorithmPractice.Implementation;
 
 // 문제 : 왕실의 나이트
 // 문제 해결 방법 : 요구사항대로 구현

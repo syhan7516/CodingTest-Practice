@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 문제 : 최대공약수 (유클리드 호제법)
 // 문제 해결 방법 : A, B 최대공약수는 B와 A, B의 나머지 값의 최대공약수와 동일

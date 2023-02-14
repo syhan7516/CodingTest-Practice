@@ -1,4 +1,4 @@
-package 알고리즘1.Greedy;
+package AlgorithmPractice.Greedy;
 
 // 문제 : 모험가 길드
 // 문제 해결 방법 : 현재 그룹에 포함된 모험가의 수가 현재 확인하고 있는 공포도보다 크거나 같다면 그룹화

@@ -1,4 +1,4 @@
-package 알고리즘1.Sort;
+package AlgorithmPractice.Sort;
 
 // 주제 : 삽입 정렬
 // 내용 : 처리되지 않은 데이터를 하나씩 골라 적절한 위치에 삽입하는 방법으로 정렬

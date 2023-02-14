@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 주제 : DFS의 구현을 위한 재귀 함수
 // 내용 : 자기 자신을 다시 호출하는 함수를 의미

@@ -1,4 +1,4 @@
-package 알고리즘1.Sort;
+package AlgorithmPractice.Sort;
 
 // 주제 : 선택 정렬
 // 내용 : 처리되지 않은 데이터 중에서 가장 작은 데이터를 선택해 범위 맨 앞에 있는 데이터와 바꾸는 방법으로 정렬

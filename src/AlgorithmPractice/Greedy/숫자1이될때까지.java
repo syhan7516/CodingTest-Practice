@@ -1,4 +1,4 @@
-package 알고리즘1.Greedy;
+package AlgorithmPractice.Greedy;
 
 // 문제 : 1이 될 때까지
 // 문제 해결 방법 : 최대한 많이 나누기 연산 수행

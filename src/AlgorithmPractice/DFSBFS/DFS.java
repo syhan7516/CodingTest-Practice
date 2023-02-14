@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 주제 : DFS (Depth-First-Search)
 // 내용 : 깊은 부분을 우선적으로 탐색하는 알고리즘

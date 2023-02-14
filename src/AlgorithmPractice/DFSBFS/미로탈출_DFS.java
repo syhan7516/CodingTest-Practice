@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 문제 : 미로 탈출
 // 문제 해결 방법 : DFS, BFS로 1,1 지점부터 모든 노드의 최단 거리 값을 기록하면서 이동 & 탐색

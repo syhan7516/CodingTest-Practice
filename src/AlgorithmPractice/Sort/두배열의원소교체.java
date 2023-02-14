@@ -1,4 +1,4 @@
-package 알고리즘1.Sort;
+package AlgorithmPractice.Sort;
 
 // 문제 : 두 배열의 원소 교체
 // 문제 해결 방법 : 매번 A에서는 가장 작은 원소, B에서는 가장 큰 원소를 교체

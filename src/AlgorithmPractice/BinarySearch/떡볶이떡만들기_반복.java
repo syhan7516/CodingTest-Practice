@@ -1,4 +1,4 @@
-package 알고리즘1.BinarySearch;
+package AlgorithmPractice.BinarySearch;
 
 // 문제 : 떡볶이 떡 만들기
 // 문제 해결 방법 : 적절한 높이를 찾을 때까지 이진 탐색을 수행하여 높이 조정하기

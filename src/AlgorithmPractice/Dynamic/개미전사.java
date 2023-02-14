@@ -22,7 +22,7 @@ public class 개미전사 {
         }
         // 기본 값 설정
         foods[0] = warehouses[0];
-        foods[1] = warehouses[1];
+        foods[1] = Math.max(warehouses[0],warehouses[1]);
 
         // 창고별 약탈 가능한 최적의 수 찾기
         for(int idx=2; idx<warehouseCount; idx++) {

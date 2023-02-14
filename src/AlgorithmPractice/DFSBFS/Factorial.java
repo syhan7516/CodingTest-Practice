@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 문제 : 팩토리얼을 재귀 함수와 반복문으로 구현
 // 문제 해결 방법 : 반복되는 과정, 작업을 파악

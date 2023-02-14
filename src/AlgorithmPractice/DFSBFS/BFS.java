@@ -1,4 +1,4 @@
-package 알고리즘1.DFSBFS;
+package AlgorithmPractice.DFSBFS;
 
 // 주제 : BFS (Breadth-First-Search)
 // 내용 : 가까운 노드부터 우선적으로 탐색하는 알고리즘

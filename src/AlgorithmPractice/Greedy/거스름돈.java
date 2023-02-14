@@ -1,4 +1,4 @@
-package 알고리즘1.Greedy;
+package AlgorithmPractice.Greedy;
 
 // 문제 : 거스름돈
 // 문제 해결 방법 : 가장 큰 화폐 단위부터 교환
